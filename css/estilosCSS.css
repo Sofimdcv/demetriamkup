@@ -654,7 +654,7 @@ textarea {
     font-size: 2rem;
     padding-top: 0.7rem; }
   .presentacion .presentacion__texto {
-    font-family: barlow semi condensed;
+    font-family: barlow Semi Condensed;
     text-align: center;
     color: #662483;
     font-size: 0.8rem; }
@@ -719,7 +719,7 @@ footer a {
   height: 40px; }
 
 .copyr__texto {
-  font-family: barlow semi condensed;
+  font-family: barlow Semi Condensed;
   color: #fff;
   text-align: center;
   font-size: .8rem;
