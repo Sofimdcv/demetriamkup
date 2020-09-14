@@ -8,11 +8,11 @@
   padding-bottom: 100px; }
 
 @font-face {
-  font-family: "dutch801 Rm BT";
+  font-family: "dutch801 Rm BT", serif;
   src: url(../font/dutch801-rm-bt-roman.ttf); }
 
 @font-face {
-  font-family: "eternate";
+  font-family: "eternate", sans-serif;
   src: url(../font/eternate.ttf); }
 
 @font-face {
@@ -22,6 +22,10 @@
 @font-face {
   font-family: "eternate", sans-serif;
   src: url(../font/eternate.ttf); }
+
+@font-face {
+  font-family: "barlow semi condensed", sans-serif;
+  src: url(../font/BarlowSemiCondensed-Regular.ttf); }
 
 /*-----------------------------------------------------------------------*/
 /* inicia Header */
