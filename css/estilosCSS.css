@@ -8,11 +8,11 @@
   padding-bottom: 100px; }
 
 @font-face {
-  font-family: "dutch801 Rm BT", serif;
+  font-family: "dutch801 Rm BT";
   src: url(../font/dutch801-rm-bt-roman.ttf); }
 
 @font-face {
-  font-family: "eternate", sans-serif;
+  font-family: "eternate";
   src: url(../font/eternate.ttf); }
 
 @font-face {
