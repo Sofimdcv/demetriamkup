@@ -2,22 +2,22 @@ $lila:#D1BADB;
 $violeta:#662483;
 
 @font-face{
-	font-family: "dutch801 Rm BT", serif;
+	font-family: dutch801 Rm BT;
 	src: url(../font/dutch801-rm-bt-roman.ttf);
 }
 
 @font-face{
-	font-family: "eternate", sans-serif;
+	font-family: eternate;
 	src: url(../font/eternate.ttf);
 }
 
 @font-face{
-	font-family: "barlow semi condensed", sans-serif;
+	font-family:barlow semi condensed;
 	src: url(../font/BarlowSemiCondensed-Regular.ttf);
 }
 
-$cursive-font:"eternate", sans-serif;
-$text-font:"barlow semi condensed", sans-serif;
+$cursive-font: eternate;
+$text-font: barlow semi condensed;
 
 
 
